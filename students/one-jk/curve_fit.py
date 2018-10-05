@@ -45,7 +45,7 @@ print("The minimum of the original fitted function is:", zmin)
 print("The slope of the orginal LR is:", slope)
 print("The intercept of the original LR is:", intercept)
 print("The standard error of the original LR is:", std_err)
-print()
+print() #This breaks up the output nicely
 print("The minimum of the second fitted function is:", zmin2)
 print("The slope of the second LR is:", slope2)
 print("The intercept of the second LR is:", intercept2)
