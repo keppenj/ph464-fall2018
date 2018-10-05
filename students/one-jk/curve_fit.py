@@ -4,8 +4,8 @@ import numpy as np
 
 #plt.style.use('seaborn-whitegrid')
 
-#data = np.loadtxt("data/data_p.txt")
-#print(data)
+data = np.loadtxt("students/one-jk/data/data.txt")
+print(data)
 #fig = plt.figure()
 #ax = plt.axes()
 
