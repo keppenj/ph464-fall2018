@@ -1,12 +1,11 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import numpy.polynomial.polynomial as poly
+#import matplotlib.pyplot as plt
+#import numpy.polynomial.polynomial as poly
 
-plt.style.use('seaborn-whitegrid')
+#plt.style.use('seaborn-whitegrid')
 
-data = np.loadtxt("data/data_p.txt")
-
-print(data)
+#data = np.loadtxt("data/data_p.txt")
+#print(data)
 #fig = plt.figure()
 #ax = plt.axes()
 
